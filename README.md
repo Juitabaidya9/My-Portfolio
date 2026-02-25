@@ -1,5 +1,5 @@
 # 🚀 Juita Baidya – Personal Portfolio
-
+ 
 Welcome to my personal portfolio website repository!
 
 This portfolio showcases my academic background, industrial training, technical projects, and skills as an Electrical Engineering undergraduate at NIT Agartala with strong interests in automation, IoT, and software development.
