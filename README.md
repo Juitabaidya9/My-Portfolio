@@ -17,7 +17,7 @@ Alongside my electrical core knowledge, I actively build software solutions usin
 ## 🌐 Live Portfolio
 
 🔗 Live Website:
-https://Juitabaidya9.github.io/My-Portfolio/
+https://my-portfolio-tau-beige-64.vercel.app/
 
 ---
 
